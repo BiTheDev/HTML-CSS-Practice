@@ -1,0 +1,35 @@
+body{
+	background-color: skyblue;
+}
+h1, h2{
+	padding: 10px;
+	font-size: 48px;
+	font-family: 'Times';
+}
+#first{
+	color: White;
+}
+.links{
+	color: yellow;
+}
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+p{
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 28px;
+	color: blue;
+}
+b{
+	color: black;
+}
+i{
+	color: white;
+}
+a{
+	font-size: 30px
+	
+}
